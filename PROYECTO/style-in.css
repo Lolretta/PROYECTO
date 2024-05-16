@@ -1,0 +1,95 @@
+body {
+    margin: 0px;
+}
+
+#logo {
+    width: 80.73px;
+    height: 101.78px;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+
+#suc {
+    text-align: right;
+    margin-top: 30px;
+    font-size: 30px;
+    margin-left: 80%;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+}
+
+.container img {
+    margin-right: 10px;
+}
+
+.manrope-titulo {
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:bold;
+    font-style: normal;
+    margin-top: 0;
+}
+
+#ubi {
+    background-color: #22B559;
+    width: 175px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    font-family: "Rowdies", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    margin-left: 250px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #def7a8;
+}
+
+#sucursales {
+    margin-top: 40px;
+    margin-left: 60px;
+    max-width: 50%;
+    display:block;
+    align-items: center;
+}
+
+#sucursales img {
+    margin-left: 10px;
+    max-width: 50%;
+}
+
+.tit-suc {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+
+.subtit-suc {
+    font-family: "Ropa Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+  
+p {
+    margin: auto;
+}
+
+hr {
+    height: 1px;
+    background-color: black;
+}

@@ -1,0 +1,129 @@
+body {
+    background-image: url("https://www.shutterstock.com/image-illustration/abstract-blurred-white-ice-blue-600nw-2283023549.jpg");
+    background-size: cover;
+}
+
+#logo {
+    width: 80.73px;
+    height: 101.78px;
+    margin-top: 75px;
+    margin-left: 30px;
+}
+
+#izq {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0;
+    height: auto;
+    width: 50%;
+    background-color: white;
+    margin: 0;
+}
+
+#iniciosesion {
+    position: fixed;
+    margin-left: 35px;
+}
+
+
+.manrope-titulo {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:bold;
+  font-style: normal;
+  margin-top: 0;
+}
+
+.formularioinicio {
+    
+}
+
+.inter-iniciosesion {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+
+#checkbox {
+    background-color: #b4e4dc
+}
+
+input[type="text"] {
+    width: 500px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+input[type="password"] {
+    width: 500px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#contraseña {
+    margin-left: 180px;
+}
+
+button {
+    background-color: #98DE00;
+    width: 525px;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 50px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #def7a8;
+}
+
+input[type="checkbox"] {
+    margin-top: 10px;
+    border: 1px #ccc;
+    width: 15px;
+    height: 15px;
+}
+
+input[type="checkbox"]:checked {
+    background-color:#98DE00;
+}
+
+
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color: red;
+}
+
+a:visited{
+    color: purple;
+}
+
+a{
+    color: #98DE00;
+}
+
+.custom-checkbox {
+    appearance: none; /* Elimina el estilo predeterminado */
+    background-color: #fff; /* Color de fondo inicial */
+    border: 2px solid #ccc; /* Borde del checkbox */
+    padding: 10px; /* Espacio alrededor del contenido interno */
+    display: inline-block; /* Hace que el elemento sea en línea pero admite dimensiones */
+    position: relative; /* Para la colocación del indicador de check */
+}
+
+#mensajexitoso {
+    background-color: #98DE00;
+    box-shadow: 10px 10px 10px 0 rgba(46, 46, 46, 0.5);
+}
