@@ -18,7 +18,7 @@
                 <input type="text" class="inter-iniciosesion" id="cajatexto" placeholder="Ingresa tu usuario o email">
             </div>
             <br>
-            <button id="boton" class="inter-iniciosesion" style="font-weight: normal; color: white;" href="./OLVIDARCONTRASEÑA2.html">Enviar</button>
+            <button id="boton" class="inter-iniciosesion" style="font-weight: normal; color: white;" href="./RECUPERAR2.php">Enviar</button>
         </div>
     </div>
     
